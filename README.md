@@ -4,7 +4,7 @@
 
 **課程網頁**：https://github.com/HungHuaTien/Thinking-I/
 
-**講義下載**：
+**講義下載**：https://reurl.cc/My11kp
 
 **Line群組**：https://line.me/ti/g/OE-7w5KcMh
 
