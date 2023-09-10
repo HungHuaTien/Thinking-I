@@ -1,6 +1,6 @@
 # Thinking-I
 
-**經濟一甲運算思維與程式設計**
+## 經濟一甲運算思維與程式設計
 
 **課程網頁**：https://github.com/HungHuaTien/Thinking-I/
 
