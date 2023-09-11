@@ -8,7 +8,7 @@
 
 **Line群組**：https://line.me/ti/g/OE-7w5KcMh
 
-**MSTeams課程團隊**，代碼:ffq1znn 
+**MSTeams廣播**: 加入課程團隊代碼:ffq1znn 
 
 
 ## 課程公告
