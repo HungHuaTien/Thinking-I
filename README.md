@@ -8,15 +8,17 @@
 
 **Line群組**：https://line.me/ti/g/OE-7w5KcMh
 
-**MSTeams廣播**: 加入課程團隊代碼:ffq1znn 
-
 
 ## 課程公告
 
 ### Week 2 2023/09/18(一)
 - **課程進度**：Unit2 Python的使用
 - **作業上傳連結**: 請務必填寫表單 https://forms.gle/LHNDy97bT26sDBfQ6
-- **MS Teams連結**：https://teams.microsoft.com/l/meetup-join/19%3a_sx-LsyGgU5EDPZ6Klt4iraU3phy62mgAmTZXKgrOBU1%40thread.tacv2/1694948379760?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+- **課程錄影**：
+  -  https://youtu.be/XdBsjiFxvIw
+  -  https://youtu.be/PBEe56UtE-w
+  -  作業繳交檔案錄影https://youtu.be/ZIUB3fIm3Ks
+    
 
 
 ### Week 1 2023/09/11(一)
