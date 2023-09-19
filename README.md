@@ -11,6 +11,13 @@
 
 ## 課程公告
 
+### Week 3 2023/09/25(一)
+
+**請每一位同學看一下這個[Excel檔案](https://reurl.cc/DoZYQQ) 上面有你名字的，沒有問題；沒有你名字的都請再次重傳「學號子目錄」連結。**
+
+
+- **課程進度**：Unit2 Python的使用
+
 ### Week 2 2023/09/18(一)
 - **課程進度**：Unit2 Python的使用
 - **作業上傳連結**: 請務必填寫表單 https://forms.gle/LHNDy97bT26sDBfQ6
@@ -19,8 +26,6 @@
   -  https://youtu.be/PBEe56UtE-w
   -  作業繳交檔案錄影https://youtu.be/ZIUB3fIm3Ks
     
-
-
 ### Week 1 2023/09/11(一)
 - **課程進度**：課程綱要 ＋Unit 1 緒論
 - **電腦報修Apps**：http://cc.web.shu.edu.tw/shuapp/ (若你的電腦有問題，請下載學校的Apps，直接填單讓學校處理。)
