@@ -11,6 +11,10 @@
 
 ## 課程公告
 
+
+
+-**MS Teams:** https://teams.microsoft.com/l/meetup-join/19%3a_sx-LsyGgU5EDPZ6Klt4iraU3phy62mgAmTZXKgrOBU1%40thread.tacv2/1695537370532?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
 ### Week 3 2023/09/25(一)
 
 **請每一位同學看一下這個[Excel檔案](https://reurl.cc/DoZYQQ)。如果上面有你名字的，那麼沒有問題；如果沒有你名字，那麼請這些同學重傳一次「學號子目錄」連結。**
@@ -23,6 +27,8 @@
 (4)然後上網查詢[短網址]，並透過[短網址]服務，將上述子目錄網址轉成短網址。
 (5)最後透過課程網頁中作業上傳連結的Google表單，給我「學號」子目錄的「短網址」連結。
 
+- **課程進度**：Unit3 數字資料
+- **MS Teams:** https://teams.microsoft.com/l/meetup-join/19%3a_sx-LsyGgU5EDPZ6Klt4iraU3phy62mgAmTZXKgrOBU1%40thread.tacv2/1695537370532?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
 
 
 ### Week 2 2023/09/18(一)
