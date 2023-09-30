@@ -34,6 +34,7 @@
 - **課程錄影**:
   - https://youtu.be/8R7YX7oZ1OI
   - https://youtu.be/-9TY9yrM13g
+  - https://www.youtube.com/watch?v=tM0b_6XhbmA (作業繳交操做)
 
 ### Week 2 2023/09/18(一)
 - **課程進度**：Unit2 Python的使用
