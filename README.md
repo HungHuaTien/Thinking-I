@@ -11,6 +11,13 @@
 
 ## 課程公告
 
+### Week 13 2023/12/04(一)
+
+- **課程進度**：Unit 10 條件分支 + Unit 11 資料結構
+- **本週作業**: Unit 10 ＋ Unit 11
+- **MS Teams**:
+https://teams.microsoft.com/l/meetup-join/19%3a_sx-LsyGgU5EDPZ6Klt4iraU3phy62mgAmTZXKgrOBU1%40thread.tacv2/1701647906736?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
 ### Week 12 2023/11/27(一)
 
 - **課程進度**：Unit 10 條件分支
