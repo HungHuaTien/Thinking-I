@@ -11,7 +11,13 @@
 
 ## 課程公告
 
-### Week 15  2023/12/11(一)
+### Week 16  2023/12/25(一)
+
+- **課程進度**：Unit 13 海龜繪圖
+- **本週作業**: Unit 13
+- **MS Teams**: https://teams.microsoft.com/l/meetup-join/19%3a_sx-LsyGgU5EDPZ6Klt4iraU3phy62mgAmTZXKgrOBU1%40thread.tacv2/1703476310667?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
+
+### Week 15  2023/12/18(一)
 
 - **課程進度**：Unit 12 計數迴圈 + Unit 13 海龜繪圖
 - **本週作業**: Unit 12 + Unit 13
